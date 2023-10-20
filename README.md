@@ -16,4 +16,4 @@ Usage:
 
 [1] Smith, Geoffrey. "On the foundations of quantitative information flow." International Conference on Foundations of Software Science and Computational Structures. Berlin, Heidelberg: Springer Berlin Heidelberg, 2009.
 
-[2] https://uflorida-my.sharepoint.com/:p:/g/personal/monjil_m_ufl_edu/ERZ9tIFuOnZKn1rH7fZoPuQBFKUx-4Z0zgX3GG6rEDileA?e=tCLQGq
+[2] https://uflorida-my.sharepoint.com/:p:/g/personal/monjil_m_ufl_edu/ERZ9tIFuOnZKn1rH7fZoPuQBFKUx-4Z0zgX3GG6rEDileA
